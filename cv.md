@@ -6,10 +6,10 @@
 4. HTML, CSS, JS, nodejs, git, reactjs, redux, firebase, bootstrap, materializecss, webpack, babel, ajax, bem 
 5. * https://github.com/chakapega/react-firebase-todo
    * https://github.com/chakapega/weatherAPP
-6. 
+6. I participated in IMAGURU-DATATHON-2019. Link to the project of our team: https://github.com/Kezzzia/IMAGURU-DATATHON-2019
 7. * Minsk State Vocational and Technical College of mounting and lifting-transport works
-Electrician for repair and maintenance of electrical equipment
-September 2006 - June 2009
+     Electrician for repair and maintenance of electrical equipment
+     September 2006 - June 2009
    * Front-end developer, TeachMeSkills
-January 2019 - July 2019
+     January 2019 - July 2019
 8. English A2
