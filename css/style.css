@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.main-container {
+  border: 1px solid #e1e4e8;
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 1024px;
+  height: 100vh;
+  position: relative;
+}
+.avatar {
+  position: absolute;
+  height: 190px;
+  top: 20px;
+  right: 50px;
+  border: 1px solid #e1e4e8;
+}
